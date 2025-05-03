@@ -1,0 +1,30 @@
+@import url(style/NavBar.css);
+@import url(style/cabecalho.css);
+@import url(style/metricas.css);
+@import url(style/vagas.css);
+@import url(style/oportunidades.css);
+@import url(style/depoimento.css);
+@import url(style/formulario.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+:root {
+    --cor-de-fundo-primaria: #FFFFFF;
+    --fonte: "Inter", sans-serif;
+    --cinza-escuro: #3A404E;
+    --cinza-claro: #667085;
+    --vermelho-vinho: #8E2424;
+    --cinza-mais-claro: #98A2B3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background: var(--cor-de-fundo-primaria);
+    font-family: var(--fonte)
+}

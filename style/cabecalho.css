@@ -1,0 +1,24 @@
+.secao__primeira {
+    text-align: center;
+    margin-top: 6.5em;
+    margin-bottom: 9em;
+}
+
+.secao__primeira-subtitulo {
+    font-size: 16px;
+    color: var(--vermelho-vinho);
+}
+
+.secao__primeira-titulo {
+    font-size: 48px;
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.secao__primeira-texto {
+    font-size: 20px;
+    color: var(--cinza-claro);
+    font-weight: 400;
+    width: 40%;
+    margin: 0 auto;
+}
