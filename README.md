@@ -20,6 +20,5 @@ Este projeto foi desenvolvido como parte do processo de aprendizado na plataform
 ![](img/Screenshot2.png)
 
 # ▶️ Como Visualizar
-1. Clone o repositório: git clone https://github.com/Thiagow10/OptimusTech.git
-
-2. Abra o arquivo index.html diretamente no navegador.
+Acesse ao link abaixo para visualização do projeto:
+https://optimus-tech-topaz.vercel.app/
